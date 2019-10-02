@@ -1,0 +1,4 @@
+y = input ('Base: ')
+x = input ('Power: ')
+z = ((int (y)) ** (int (x)))
+print (str (y) + str (' to the power of ') + str (x) + str (' = ') + str (z))
